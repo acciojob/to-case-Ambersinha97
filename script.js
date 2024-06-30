@@ -14,6 +14,7 @@ function toCase(text) {
 			else
 			str+=text.charAt(i)
 	}
+	return str
 }
 
 // DO not change the code below
